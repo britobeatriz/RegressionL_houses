@@ -1,0 +1,14 @@
+## Dicionário
+- city: Cidade onde está localizada o imóvel
+- area: Área em m² do imóvel
+- rooms: Quantidade de quartos
+- bathroom: Quantidade de banheiros
+- parking spaces: Quantidade de garagens
+- floor: Andar da casa
+- animal: Se permite ou não animal doméstico
+- furniture: Se o imóvel está ou não mobiliado
+- hoa (R$): Valor da taxa de condomínio
+- rent amount (R$): Valor do aluguel
+- property tax (R$): Valor do IPTU
+- fire insurance (R$): Valor do seguro de incêncio
+- total (R$): Valor total de aluguel do imóvel
