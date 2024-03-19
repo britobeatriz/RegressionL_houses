@@ -1,0 +1,13 @@
+.inputClass {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 25rem;
+}
+.inputClass label {
+    align-self: flex-start;
+}
+.inputClass input {
+    align-self: flex-end;
+    width: 10rem;
+}

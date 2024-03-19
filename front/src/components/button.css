@@ -1,0 +1,9 @@
+button {
+    width: 10rem;
+    height: 2rem;
+}
+button:hover {
+    background-color: var(--sky-500);
+    color: var(--gray-50);
+    cursor: pointer;
+}
